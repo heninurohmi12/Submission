@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">KampusTertua</string>
+    <string name="kampus">Nama Kampus</string>
+    <string name="detail">Detail Kampus</string>
+    <string name="pengertian">Pengertian</string>
+    <string name="nama_kampus">Nama Kampus</string>
+    <string name="sejarah">Sejarah</string>
+    <string name="about">About</string>
+</resources>
